@@ -25,6 +25,6 @@ Do not allocate extra space for another array. You must do this by modifying the
 
 
 ANSWER 26\
-[Remove Duplicates from sorted arrat](removeDuplicates.java)
+[Remove Duplicates from sorted array](removeDuplicates.java)
 
 
